@@ -2,4 +2,4 @@ Thanks for downloading this template!
 
 Template Name: Personal
 Author: Chandan Pandey
-License: https://bootstrapmade.com/license/
+Profile: https://www.linkedin.com/in/chandan-kumar-a59090174/
